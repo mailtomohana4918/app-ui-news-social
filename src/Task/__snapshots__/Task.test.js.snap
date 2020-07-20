@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Component renders as expected 1`] = `
+<DocumentFragment>
+  <h3>
+    Task One
+  </h3>
+  &lt;article&gt;  &lt;h2&gt;This is a Title&lt;/h2&gt; &lt;p&gt;This is a paragraph, with some inline styles such as &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, and &lt;span class="underline"&gt;underline&lt;/span&gt;.&lt;/p&gt; &lt;p&gt;Styles can overlap, like this: &lt;strong&gt;&lt;em&gt;bold and italic&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;&lt;span class="underline"&gt;bold, italic, and underline&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Style overlaps do not have to start or end at the same place, for example: &lt;span class="underline"&gt;one, &lt;em&gt;two, &lt;strong&gt;three&lt;/strong&gt;, two&lt;/em&gt;, one&lt;/span&gt;.&lt;/p&gt; &lt;/article&gt;
+  <h3>
+    Task Two
+  </h3>
+  &lt;article&gt;  &lt;p&gt;We can have bullet-point lists:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;bullets&lt;/li&gt;&lt;li&gt;are&lt;/li&gt;&lt;li&gt;useful&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;And numbered lists:&lt;/p&gt; &lt;ol&gt;&lt;li&gt;numbers&lt;/li&gt;&lt;li&gt;are&lt;/li&gt;&lt;li&gt;fun&lt;/li&gt;&lt;/ol&gt; &lt;/article&gt;
+  <h3>
+    Task Three
+  </h3>
+  &lt;article&gt;  &lt;p&gt;We can mention people like &lt;Mention data={{"img":{"_id":"59d785576a02553c4109c8ce","contentType":"image/png","originalFileSize":2271,"originalFileName":"avatar.png","uuid":"734114e0-aa9a-11e7-8f69-831ae15637d2"},"text":"steve-kv","id":"59d785576a02553c4109c8cd"}}&gt;@steve-kv&lt;/Mention&gt; and &lt;Link data={{"description":"This is a link to Google","url":"http://www.google.com"}}&gt;link to url's&lt;/Link&gt;.&lt;/p&gt; &lt;/article&gt;
+</DocumentFragment>
+`;

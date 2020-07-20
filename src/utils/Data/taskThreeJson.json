@@ -1,0 +1,48 @@
+{
+    "blocks" : [
+      {
+        "entityRanges" : [
+          {
+            "key" : 0,
+            "length" : 9,
+            "offset" : 27
+          },
+          {
+            "key" : 1,
+            "length" : 13,
+            "offset" : 41
+          }
+        ],
+        "inlineStyleRanges" : [ ],
+        "depth" : 0,
+        "type" : "unstyled",
+        "text" : "We can mention people like @steve-kv and link to url's.",
+        "key" : "2emh7"
+      }
+    ],
+    "entityMap" : {
+      "0" : {
+        "data" : {
+          "img" : {
+            "_id" : "59d785576a02553c4109c8ce",
+            "contentType" : "image/png",
+            "originalFileSize" : 2271,
+            "originalFileName" : "avatar.png",
+            "uuid" : "734114e0-aa9a-11e7-8f69-831ae15637d2"
+          },
+          "text" : "steve-kv",
+          "id" : "59d785576a02553c4109c8cd"
+        },
+        "mutability" : "IMMUTABLE",
+        "type" : "MENTION"
+      },
+      "1" : {
+        "data" : {
+          "description" : "This is a link to Google",
+          "url" : "http://www.google.com"
+        },
+        "mutability" : "MUTABLE",
+        "type" : "LINK"
+      }
+    }
+  }

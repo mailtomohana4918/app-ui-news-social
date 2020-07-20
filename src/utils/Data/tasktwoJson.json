@@ -1,0 +1,68 @@
+{
+    "blocks" : [
+      {
+        "entityRanges" : [ ],
+        "inlineStyleRanges" : [ ],
+        "depth" : 0,
+        "type" : "unstyled",
+        "text" : "We can have bullet-point lists:",
+        "key" : "gsfa"
+      },
+      {
+        "entityRanges" : [ ],
+        "inlineStyleRanges" : [ ],
+        "depth" : 0,
+        "type" : "unordered-list-item",
+        "text" : "bullets",
+        "key" : "4ekf9"
+      },
+      {
+        "entityRanges" : [ ],
+        "inlineStyleRanges" : [ ],
+        "depth" : 0,
+        "type" : "unordered-list-item",
+        "text" : "are",
+        "key" : "fksk7"
+      },
+      {
+        "entityRanges" : [ ],
+        "inlineStyleRanges" : [ ],
+        "depth" : 0,
+        "type" : "unordered-list-item",
+        "text" : "useful",
+        "key" : "doaj3"
+      },
+      {
+        "entityRanges" : [ ],
+        "inlineStyleRanges" : [ ],
+        "depth" : 0,
+        "type" : "unstyled",
+        "text" : "And numbered lists:",
+        "key" : "a6m07"
+      },
+      {
+        "entityRanges" : [ ],
+        "inlineStyleRanges" : [ ],
+        "depth" : 0,
+        "type" : "ordered-list-item",
+        "text" : "numbers",
+        "key" : "fg1a3"
+      },
+      {
+        "entityRanges" : [ ],
+        "inlineStyleRanges" : [ ],
+        "depth" : 0,
+        "type" : "ordered-list-item",
+        "text" : "are",
+        "key" : "8dt2t"
+      },
+      {
+        "entityRanges" : [ ],
+        "inlineStyleRanges" : [ ],
+        "depth" : 0,
+        "type" : "ordered-list-item",
+        "text" : "fun",
+        "key" : "4a6lo"
+      }
+    ]
+  }
